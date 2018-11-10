@@ -1,0 +1,7 @@
+
+https://dzone.com/articles/intro-to-spring-cloud-config-server
+
+http://localhost:8080/message
+http://localhost:8888/a-bootiful-client/default
+curl -X POST http://localhost:8080/refresh
+http://localhost:8080/message
